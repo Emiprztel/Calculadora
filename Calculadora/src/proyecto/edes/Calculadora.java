@@ -5,5 +5,10 @@ public class Calculadora {
 	public int sumar(int a, int b) {
 		return a + b;
 	}
+	
+	//nuevo metodo restar
+	public int restar(int a, int b) {
+	    return a - b; 
+	}
 
 }
